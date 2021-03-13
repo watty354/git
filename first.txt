@@ -1,2 +1,5 @@
 gitの練習
 追加した一文です
+
+/gitadd
+/git cummit
