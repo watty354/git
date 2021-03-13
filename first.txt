@@ -3,3 +3,5 @@ gitの練習
 
 /gitadd
 /git cummit
+git rm
+git status
